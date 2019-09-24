@@ -85,15 +85,19 @@ public class DayOne {
 			switch (i) {
 				case 1:
 					printFirstPattern();
+					System.out.println();
 					break;
 				case 2:
 					printSecondPattern();
+					System.out.println();
 					break;
 				case 3:
 					printThirdPattern();
+					System.out.println();
 					break;
 				case 4:
 					printFourthPattern();
+					System.out.println();
 					break;
 			}
 		}
